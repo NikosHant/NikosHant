@@ -16,4 +16,5 @@
   <img alt="PHP" src="https://img.shields.io/badge/PHP-black?style=plastic&logo=php&logoColor=teal" />
   <img alt="PGSQL" src="https://img.shields.io/badge/PostgreSQL-silver?style=plastic&logo=postgresql&logoColor=blue" />  
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-silver?style=plastic&logo=mysql&logoColor=blue" />  
+  <img alt="Git" src="https://img.shields.io/badge/Git-black?style=plastic&logo=git&logoColor=white" />
 </p>
