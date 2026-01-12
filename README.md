@@ -1,7 +1,7 @@
 <h1> Hey there! Welcome to my page!</h1>
 
 
-<p>I'm Nikos, Electrical and Computer Engineering graduate with a knack about all things data & ML, and an interest in InfoSec.</p>
+<p>I'm Nikos, Electrical and Computer Engineering graduate with a knack about all things data & ML, and an interest in InfoSec. Currently working on my generalist Python knowledge.</p>
 <h3>My most familiar tech</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-blue?style=plastic&logo=python&logoColor=white" />
